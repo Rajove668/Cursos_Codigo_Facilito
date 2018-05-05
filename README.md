@@ -1,5 +1,5 @@
 # *PlataformaKarate*
 
  Empezaremos con los siguientes cursos:
- 
-[] Curso Bases de Datos en MySQL
+
+- [ ] Curso Bases de Datos en MySQL
